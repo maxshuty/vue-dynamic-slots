@@ -4,7 +4,11 @@ Have you ever wondered how you can reorganize a components inputs based on a giv
 
 ## Why is this useful?
 
-A good example of this use case is address formats. Different countries have different formats, like Germany shows a different format from the United States. Perhaps you want to build an `AddressDisplay` component and you want the display to change depending on the country specified. Well you're in luck - with this repo have a look at the `SlotsExample.vue`. Follow this same logic to create a wrapper around your main address component like I have implemented in the `App.vue`.
+In short because it displays the awesomeness of dynamic slots.
+
+A good example of this use case for something like this would be address formats. Different countries have different formats, like Germany shows a different format from the United States or United Kingdom formats.
+
+Perhaps you want to build an `AddressDisplay` component and you want the display of the address to change depending on a given format. Well you're in luck - with this repo have a look at the `SlotsExample.vue`. Follow this same logic to create a wrapper around your main address component like I have implemented in the `App.vue` and you can get a clean way to dynamically alter the order of your data based on a given format, yet still be able to easily add new fields and maintain existing fields.
 
 ## Usage
 
