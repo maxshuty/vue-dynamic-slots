@@ -12,7 +12,7 @@ Perhaps you want to build an `AddressDisplay` component and you want the display
 
 ## Usage
 
-Take a peek at the `App.vue`, it is wrapped with the `SlotsExample.vue` component to dynamically change the order of the fields within `App.vue`.
+Look at the `App.vue`, it is wrapped with the `SlotsExample.vue` component to dynamically change the order of the fields within `App.vue`.
 
 ## Project setup
 
