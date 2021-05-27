@@ -23,6 +23,8 @@ export default {
     this.slotNames = this.shuffle(this.slotNames);
   },
   methods: {
+    // This is to simulate randomization of some format
+    // that could bbe passed in to this component
     shuffle(array) {
       let currentIndex = array.length;
       let temporaryValue;
