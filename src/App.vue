@@ -2,7 +2,7 @@
   <div>
     <slots-example>
       <template v-slot:companyName>
-        <div><b>Company Name:</b> Elves LLC</div>
+        <div><b>Company Name:</b> North Pole LLC</div>
       </template>
       <template v-slot:addressLine1>
         <div><b>Address Line 1:</b> 123 Road NorthPole</div>
