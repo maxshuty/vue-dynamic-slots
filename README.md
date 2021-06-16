@@ -1,6 +1,6 @@
 # Vue Dynamic Slots example
 
-Have you ever wondered how you can reorganize a components structure based on a given format? This REPO demonstrates how this can be done using dynamic `slot`s. The beauty of using a `slot` instead of an algorithm to dynamically generate the order is that the slots can be filled out and individually customized with whatever you need (ie custom validation for only one `input` and not _all_ inputs).
+Have you ever wondered how you can reorganize a components structure based on a given format? This repo demonstrates how this can be done using dynamic `slot`s. The beauty of using a `slot` instead of an algorithm to dynamically generate the order is that the slots can be filled out and individually customized with whatever you need (ie custom validation for only one `input` and not _all_ inputs).
 
 ## Why is this useful?
 
