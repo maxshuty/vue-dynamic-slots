@@ -24,7 +24,7 @@ export default {
   },
   methods: {
     // This is to simulate randomization of some format
-    // that could bbe passed in to this component
+    // that could be passed in to this component
     shuffle(array) {
       let currentIndex = array.length;
       let temporaryValue;
